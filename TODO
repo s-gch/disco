@@ -1,0 +1,4 @@
+ * image caching
+ * proper rate limiting
+ * proxy mode -> signals when updated?
+ * extend discogs.types
